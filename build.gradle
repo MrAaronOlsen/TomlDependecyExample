@@ -10,5 +10,6 @@ repositories {
 }
 
 dependencies {
+    implementation libs.apache.commons.lang3
     implementation libs.bundles.apache
 }
